@@ -74,27 +74,7 @@ I use in my work, you can highlight the Spring Framework and Dropwizard.
 
   <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
-<!-- <p align="right">
-<a href="https://dev.to/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Andrianovalyubov12" height="30" width="40" /></a>
-<a href="https://twitter.com/suman_shekhar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suman_shekhar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrianovalyubov12" height="30" width="40" /></a>
-<a href="https://instagram.com/thenameissuman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameissuman_" height="30" width="40" /></a>
-</p> -->
 
-<!-- <p align="center">
-<a href="https://twitter.com/suman_shekhar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sumanshekhar698/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thenameissuman_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/sumanshekhar698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p> -->
-
-<!--
-<p align="left">
-<a href = "https://linkedin.com/in/sumanshekhar698"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
-<a href="https://www.hackerrank.com/suman_sumanshek1" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryachopkar" width="30" /></a>
- <a href = "https://twitter.com/suman_shekhar_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
-</p> -->
 
   <!-- SOCIAL LINKS -->
 
