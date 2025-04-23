@@ -7,7 +7,7 @@
 -->
 
 <!-- BANNER -->
-<img  src="https://github.com/sumanshekhar698/Andrianovalyubov12/blob/main/assets/lofi_code.gif" />
+<img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
 
 <!-- Activity Stats -->
 
@@ -16,13 +16,13 @@
   <img src="https://profile-counter.glitch.me/sumanshekhar698/count.svg" />
 </p> -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Andrianovalyubov12&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanshekhar698&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
 
 <!-- <p align="right">
-   <img src="https://badges.pufler.dev/visits/Andrianovalyubov12/Andrianovalyubov12"/>
-  <img src="https://badges.pufler.dev/years/Andrianovalyubov12"/>
-  <img src="https://badges.pufler.dev/repos/Andrianovalyubov12"/>
-  <img src="https://badges.pufler.dev/commits/monthly/Andrianovalyubov12" />
+   <img src="https://badges.pufler.dev/visits/sumanshekhar698/sumanshekhar698"/>
+  <img src="https://badges.pufler.dev/years/sumanshekhar698"/>
+  <img src="https://badges.pufler.dev/repos/sumanshekhar698"/>
+  <img src="https://badges.pufler.dev/commits/monthly/sumanshekhar698" />
 </p> -->
 
 </br></br></br></br>
