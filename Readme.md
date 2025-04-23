@@ -7,7 +7,7 @@
 -->
 
 <!-- BANNER -->
-<img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
+<img  src="https://github.com/sumanshekhar698/Andrianovalyubov12/blob/main/assets/lofi_code.gif" />
 
 <!-- Activity Stats -->
 
@@ -16,13 +16,13 @@
   <img src="https://profile-counter.glitch.me/sumanshekhar698/count.svg" />
 </p> -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanshekhar698&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Andrianovalyubov12&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
 
 <!-- <p align="right">
-   <img src="https://badges.pufler.dev/visits/sumanshekhar698/sumanshekhar698"/>
-  <img src="https://badges.pufler.dev/years/sumanshekhar698"/>
-  <img src="https://badges.pufler.dev/repos/sumanshekhar698"/>
-  <img src="https://badges.pufler.dev/commits/monthly/sumanshekhar698" />
+   <img src="https://badges.pufler.dev/visits/Andrianovalyubov12/Andrianovalyubov12"/>
+  <img src="https://badges.pufler.dev/years/Andrianovalyubov12"/>
+  <img src="https://badges.pufler.dev/repos/Andrianovalyubov12"/>
+  <img src="https://badges.pufler.dev/commits/monthly/Andrianovalyubov12" />
 </p> -->
 
 </br></br></br></br>
@@ -75,9 +75,9 @@ I use in my work, you can highlight the Spring Framework and Dropwizard.
   <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 <!-- <p align="right">
-<a href="https://dev.to/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sumanshekhar698" height="30" width="40" /></a>
+<a href="https://dev.to/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Andrianovalyubov12" height="30" width="40" /></a>
 <a href="https://twitter.com/suman_shekhar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suman_shekhar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanshekhar698" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrianovalyubov12" height="30" width="40" /></a>
 <a href="https://instagram.com/thenameissuman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameissuman_" height="30" width="40" /></a>
 </p> -->
 
@@ -146,9 +146,9 @@ I use in my work, you can highlight the Spring Framework and Dropwizard.
 
 <h2 align="center">Save my commits from 🐍nakey 🥺</h2>
 
-![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Andrianovalyubov12/Andrianovalyubov12/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
+<img src="https://github.com/Andrianovalyubov12/Andrianovalyubov12/blob/main/assets/snake.gif" width="50"></h2> -->
 
 
 
