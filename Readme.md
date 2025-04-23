@@ -36,7 +36,7 @@ I use in my work, you can highlight the Spring Framework and Dropwizard.
 
 - 🔭 I’m working on Building web apps using Java tech stack.
 - 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://www.sumanshekhar.com/
+- 📫 Reach me @ Andrianova.lyubov12@mail.ru/
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 
 <!-- Tech Stack -->
@@ -79,18 +79,6 @@ I use in my work, you can highlight the Spring Framework and Dropwizard.
   <!-- SOCIAL LINKS -->
 
 <i><h3 align="right">Connect with me</h3></i>
-
-<p align="right">
-  <a href="https://linkedin.com/in/sumanshekhar698">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/suman_shekhar_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-  </a>
-</p>
 
 <div align="right">
 <a  href="https://www.buymeacoffee.com/sumanshekhar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
